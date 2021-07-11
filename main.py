@@ -19,7 +19,7 @@ os.chdir("C:\\Users\\Krrish\\PycharmProjects\\pythonProject9\\sidemen_bot")
 # Staring the bot
 client = commands.Bot(command_prefix='>')
 client.remove_command("help")
-api_token = 'ODYyOTA2NzQ0MDAxNjU4ODgw.YOfKhw.xYx5uB8y5K4OnkM7EDsw7pmarfg'
+api_token = 'TOKEN'
 "----------------------------------------------------------------------------------------------------------------------"
 """1. https://zenquotes.io/api/random
    2. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEXerr2qK3ee-9S3Fu8r7AO2EUAm3WMbfTQ&usqp=CAU
