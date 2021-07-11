@@ -21,12 +21,12 @@ client = commands.Bot(command_prefix='>')
 client.remove_command("help")
 api_token = 'TOKEN'
 "----------------------------------------------------------------------------------------------------------------------"
-"""1. https://zenquotes.io/api/random
-   2. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWEXerr2qK3ee-9S3Fu8r7AO2EUAm3WMbfTQ&usqp=CAU
-   3. https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAGr0w5G_Z_UgIR6Q0207lSwmQrHo7seRt2g&usqp=CAU
-   4. https://i.redd.it/f3iy7etf3ur41.jpg
-   5. https://i.redd.it/f3iy7etf3ur41.jpg
-   6. https://i.pinimg.com/236x/36/d8/a3/36d8a3cb3cacd453cc1b08e562fc2608.jpg
+"""1. 
+   2. 
+   3. 
+   4. 
+   5. 
+   6. 
    and more......."""
 "----------------------------------------------------------------------------------------------------------------------"
 
@@ -1131,3 +1131,15 @@ async def bmi(ctx, height: float, weight: float):
 
 client.run(api_token)
 "**********************************************************************************************************************"
+
+# This program can be copied or added for their respective discord bots...
+
+# Took 2 days to make
+
+# Pls check requirements from respective file
+
+# YouTube has multiple solutios and tutorials in case you don't understand any part
+
+# There are no intentional errors 
+
+# May not be the most efficient code
