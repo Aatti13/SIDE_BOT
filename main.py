@@ -13,7 +13,7 @@ import requests
 "----------------------------------------------------------------------------------------------------------------------"
 
 # Searching for directory of SIDE_BOT...
-os.chdir("C:\\Users\\Krrish\\PycharmProjects\\pythonProject9\\sidemen_bot")
+os.chdir("**:\\*****\\*****\\******\\*****\\******")
 "----------------------------------------------------------------------------------------------------------------------"
 
 # Staring the bot
@@ -1143,3 +1143,5 @@ client.run(api_token)
 # There are no intentional errors 
 
 # May not be the most efficient code
+
+# The os path has been omitted for security reasons
